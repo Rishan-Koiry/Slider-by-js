@@ -184,7 +184,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Created with ❤️ using vanilla JavaScript
+Created with ❤️ using  JavaScript By RK
 
 ## 🙏 Acknowledgments
 
